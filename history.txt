@@ -1,0 +1,841 @@
+    1  ls
+    2  cd Des
+    3  cd Desktop/
+    4  ls
+    5  ls -a
+    6  ls -l
+    7  cd
+    8  cd Desktop/
+    9  mkdir Joshua\ Mabotsa
+   10  cd Joshua\ Mabotsa/
+   11  history
+   12  cat >> Joshua.txt | history
+   13  cat Joshua.txt 
+   14  cat > Joshua.txt | history
+   15  cat > Joshua.txt | history | history
+   16  cat > Joshua.txt | history
+   17  Xcode --select install
+   18  sudo su
+   19  ls
+   20  cd
+   21  ls
+   22  cd ~
+   23  ls
+   24  cd ..
+   25  ls
+   26  cd ..
+   27  ls
+   28  cd etc/
+   29  ls
+   30  cd apt/
+   31  ls
+   32  cat sources.list
+   33  sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+   34  brew search chrome
+   35  brew search google
+   36  brew cask install google-chrome
+   37  ls
+   38  https://dl.google.com/linux/direct/google-chrome-stable_current_i386.deb
+   39  wget  https://dl.google.com/linux/direct/google-chrome-stable_current_i386.deb
+   40  wget https://dl.google.com/linux/direct/google-chrome-stable_current_1386.deb
+   41  wget https://dl.google.com/linux/direct/google-chrome-stable_current.deb
+   42  clear
+   43  sudo dpkg -i google-chrome-stable_amd.64.deb
+   44  clear
+   45  brew search intel
+   46  ls
+   47  cd Downloads/
+   48  ls
+   49  cd idea-IC-192.6817.14/
+   50  ls
+   51  cd bin
+   52  ls
+   53  ./bin.sh
+   54  ./idea.sh
+   55  sudo apt -get install gdebi
+   56  sudo apt-get install gdebi
+   57  sudo dpkg --configure -a
+   58  sudo apt-get install gdebi
+   59  brew search adobe
+   60  brew install homebrew/cask-versions/adobe-air-beta
+   61  sudo apt-get install libgtk2.0-0:i386 libnss3-1d:i386 libnspr4-0d:i386 lib32nss-mdns* libxml2:i386 libxslt1.1:i386 libstdc++6:i386
+   62  apt-get install git-core
+   63  sudo pat-get install git-core
+   64  sudo apt-get install git-core
+   65  sudo apt-get install git
+   66  git -version
+   67  git --version
+   68  java --version
+   69  java -version
+   70  sudo apt install openjdk-11-jre-headless
+   71  java --version
+   72  javac --version
+   73  sudo apt install openjdk-11-jdk-headless
+   74  javac --version
+   75  sudo apt-get skype
+   76  wget https://go.skype.com/skypeforlinux-64.deb
+   77  skypeforlinux
+   78  sudo apt-get install pidgin pidgin-sipe
+   79  I do not like the keyboard am using.
+   80  ls
+   81  pwd
+   82  mkdir workspace
+   83  ls
+   84  cd workspace/
+   85  ls
+   86  touch README.md
+   87  ls
+   88  cp README.md CHANGELOG.md
+   89  ls
+   90  cd ..
+   91  ls
+   92  cd ..
+   93  ls
+   94  pwd
+   95  cd ..
+   96  ls
+   97  cd ..
+   98  ls
+   99  pwd
+  100  cd
+  101  ls
+  102  cd workspace/
+  103  touch exercise.md
+  104  pwd
+  105  mv /tmp/
+  106  mv /tmp/ exercise.md 
+  107  pwd
+  108  ls
+  109  mv exercise.md /tmp/ exercise.md 
+  110  mv exercise.md /tmp
+  111  ls
+  112  cd ..
+  113  pwd
+  114  cd ..
+  115  pwd
+  116  ls
+  117  pwd
+  118  ls
+  119  /
+  120  ~/
+  121  ~
+  122  cd
+  123  ls
+  124  clear
+  125  ls
+  126  cd workspace/
+  127  ls
+  128  touch umuzi.md recruits.md cohort.md
+  129  ls
+  130  cat >> umuzi.md 
+  131  cat >> recruits.md 
+  132  cat >> cohort.md 
+  133  cat > history
+  134  history
+  135  ls
+  136  cat >> cohort.md 
+  137  cat cohort.md 
+  138  nano cohort.md 
+  139  nano cohort.md recruits.md umuzi.md 
+  140  less recruits.md 
+  141  less recruits.md cohort.md umuzi.md 
+  142  ls
+  143  echo umuzi.md 
+  144  echo $umuzi.md
+  145  cat umuzi.md 
+  146  touch ReadContent.sh
+  147  cat ReadContent.sh
+  148  nano ReadContent.sh
+  149  chmod 777  ReadContent.sh 
+  150  ./ReadContent.sh 
+  151  ls
+  152  cat ReadContent.sh 
+  153  cat > ReadContent.sh 
+  154  nano ReadContent.sh 
+  155  rm ReadContent.sh 
+  156  ls
+  157  nano readFiles.sh
+  158  chmod 777 readFiles.sh
+  159  ./readFiles.sh 
+  160  ls
+  161  nano readFiles.sh
+  162  chmod 777 readFiles.sh
+  163  ./readFiles.sh 
+  164  nano store.sh
+  165  chmod 777 store.sh
+  166  ./store.sh 
+  167  ls
+  168  cat summary.md 
+  169  rm summary.md 
+  170  nano store.sh 
+  171  chmod 777 store.sh
+  172  ./store.sh 
+  173  ls
+  174  cat summary.md 
+  175  ls
+  176  cat summary.md 
+  177  cat >> summary.md 
+  178  cat summary.md 
+  179  cd
+  180  locate umuzi
+  181  locate umuzi.md
+  182  echo locate umuzi.md
+  183  locate
+  184  locate umuzi
+  185  locate -c umuzi
+  186  cd Desktop/
+  187  cd
+  188  ls
+  189  cd workspace/
+  190  ls
+  191  locate umuzi
+  192  locate -c umuzi
+  193  updatedb
+  194  sudo updatedb
+  195  locate umuzi
+  196  locate -c umuzi
+  197  locate umuzi
+  198  locate -c umu
+  199  locate umu
+  200  cd workspace/
+  201  nano locate1.sh
+  202  chmod 777 locate1.sh
+  203  ./locate1.sh 
+  204  nano locate1.sh 
+  205  chmod 777 locate1.sh
+  206  ./locate1.sh 
+  207  nano locate2.sh
+  208  chmod 777 locate
+  209  chmod 777 locate2.sh
+  210  ./locate2.sh 
+  211  nano locate2.sh 
+  212  chmod 777 search_result.md 
+  213  chmod 777 locate2.sh 
+  214  ./locate2.sh 
+  215  cat locate1.sh 
+  216  nano locate2.sh 
+  217  chmod 777 locate2.sh 
+  218  ./locate2.sh 
+  219  ls
+  220  cat search_result.md 
+  221  ./locate2.sh 
+  222  cat search_result.md 
+  223  cd
+  224  cd Documents/
+  225  ls
+  226  touch pad.md
+  227  ls
+  228  cd
+  229  cd Desktop/
+  230  mkdir work
+  231  cp ~/Documents/pad.md ~/Desktop/work/ pad_copy.md
+  232  ls
+  233  cp ~/Documents/pad.md work/pad_pad.md
+  234  cd work/
+  235  ls
+  236  cat pad_pad.md 
+  237  locate updatedb
+  238  cd -
+  239  locate pad_copy.md
+  240  updatedb
+  241  sudo updatedb
+  242  locate pad_copy.md
+  243  cd work/
+  244  ls
+  245  mv pad_pad.md pad_copy.md
+  246  cd -
+  247  locate pad_copy.md
+  248  updatedb
+  249  sudo updatedb
+  250  locate pa
+  251  locate pad_copy
+  252  cd workspace/
+  253  ls
+  254  nano findpdf.sh
+  255  chmod 777 findpdf.sh
+  256  ./findpdf.sh 
+  257  nano findpdf.sh 
+  258  chmod 777 findpdf.sh
+  259  ./findpdf.sh 
+  260  nano findpdf.sh 
+  261  locate .pdf
+  262  locate .pdf 
+  263  locate .pdf -
+  264  java
+  265  nano Bello.java
+  266  nano Bello.java\
+  267  java Bello.java
+  268  nano Bello.java
+  269  java Bello.java
+  270  apt-get install git
+  271  sudo apt-get install git
+  272  git
+  273  git -version
+  274  git --version
+  275  clear
+  276  sudo apt isntall openjdk-11-jdk
+  277  sudo apt install openjdk-11-jdk
+  278  ls
+  279  cd Desktop/
+  280  mkdir JAVA
+  281  cd JAVA/
+  282  ls
+  283  nano.HelloWorld.java
+  284  nano HelloWorld.java
+  285  ls
+  286  ls | grep HelloWorld
+  287  ls | grep HelloWorld.java 
+  288  ls
+  289  javac 
+  290  javac HelloWorld.java 
+  291  nano HelloWorld.java 
+  292  javac HelloWorld.java 
+  293  ./HelloWorld.class
+  294  java HelloWorld
+  295  jshell
+  296  sudo snap install intellij-idea-community --classic
+  297  clear
+  298  cd
+  299  ls -lrh
+  300  pwd
+  301  ls
+  302  ls /Desktop
+  303  ls Desktop/
+  304  -l
+  305  ls -l
+  306  ls -R
+  307  ls -l -t -r
+  308  ls -lh
+  309  ls -l
+  310  wc -l
+  311  cd Desktop/
+  312  ls
+  313  cd Joshua\ Mabotsa/
+  314  ls
+  315  cd ..
+  316  ls
+  317  mkdir Testing
+  318  ls
+  319  cd Testing/
+  320  nano opening_lines.txt
+  321  cat opening_lines.txt 
+  322  grep opening_lines.txt 
+  323  man grep
+  324  cd
+  325  curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt
+  326  less testfile.vcf
+  327  curl https://raw.githubusercontent.com/Blahah/command_line_bootcamp/master/testfiles/grades.txt > grades.txt
+  328  echo "# hello-world" >> README.md
+  329  ls
+  330  cd Desktop/
+  331  mkdir GitExerise
+  332  cd GitExerise/
+  333  ls
+  334  echo "# hello-world" >> README.md
+  335  ls
+  336  cat README.md 
+  337  git init
+  338  git add README.md 
+  339  git commit -m "first commit"
+  340  git config --global user.email "thotsana.mabotsa@umuzi.org"
+  341  git config --global user.email
+  342  git config --global user.name
+  343  git config --global user.name "Joshua"
+  344  git config --global user.name
+  345  git commit -m "first commit"
+  346  git remote add origin https://github.com/Thotsana/Hello-world.git
+  347  git push -u origin master
+  348  cd
+  349  clear
+  350  lsb_release
+  351  man lsb
+  352  man lsb_release
+  353  cd Desktop/
+  354  ls
+  355  mkdir git-basic-exercises
+  356  ls
+  357  cd git-basic-exercises/
+  358  ls
+  359  ls -a
+  360  git init
+  361  ls -a
+  362  git status
+  363  touch README.md
+  364  ls -a
+  365  git status
+  366  git log
+  367  git add README.md
+  368  git status
+  369  git rm --cached README.md
+  370  git status
+  371  git add README.md
+  372  git status
+  373  git commit -m "initial commit"
+  374  git log
+  375  git status
+  376  ls
+  377  nano README.md 
+  378  cat README.md 
+  379  git status
+  380  git commit -m "second commit"
+  381  git status
+  382  git add README.md 
+  383  git status
+  384  git commit -m "second commit"
+  385  cat 
+  386  cat README.md 
+  387  nano README.md 
+  388  cat README.md 
+  389  git add README.md 
+  390  git status
+  391  git commit -m "third commit"
+  392  git log
+  393  clear
+  394  passwd
+  395  reboot
+  396  shutdown
+  397  shutdown -c
+  398  shutdown now
+  399  wine
+  400  sudo apt install wine-development
+  401  sudo apt install wine-stable
+  402  wine
+  403  cd 
+  404  cd Downloads/
+  405  ls
+  406  wine ubuntu-19.10-desktop-amd64.iso
+  407  la
+  408  wine rufus-3.8p.exe 
+  409  git init
+  410  ls
+  411  ls -l
+  412  ls -a
+  413  clear
+  414  git --v
+  415  git --version
+  416  cd Desktop/
+  417  mkdir edureka-repo
+  418  cd edureka-repo/
+  419  git init
+  420  ls -a
+  421  touch edureka.py
+  422  ls
+  423  gedit edureka.py 
+  424  git add edureka.py 
+  425  git add .
+  426  status
+  427  git status
+  428  git commit -m "first commit"
+  429  clear
+  430  git status
+  431  touch welcome.py
+  432  gedit welcome.py 
+  433  git add .
+  434  git status
+  435  git config --global user.name "Joshua"
+  436  git config --global user.name "Thotsana"
+  437  git config --global user.email "thotsana.mabotsa@umuzi.org"
+  438  git config user.name "Thotsana"
+  439  git config user.email "thotsana.mabotsa@umuzi.org"
+  440  git status
+  441  git branch
+  442  git branch feature
+  443  git branch
+  444  git checkout feature 
+  445  ls
+  446  gedit
+  447  gedit edureka.py 
+  448  df
+  449  sudo unmount /dev/sdb1
+  450  sudo umount /dev/sdb1
+  451  sudo dd bs=4M if=/path/to/ISOfile of=/dev/sdx status=progress oflag=sync
+  452  sudo dd bs=4M if=/home/recruit/Downloads/ubuntu-19.10-desktop-amd64.iso of=/dev/sdb1 status=progress oflag=sync 
+  453  sudo umount /dev/sdb1
+  454  sudo dd bs=4M if=/home/recruit/Downloads/ubuntu-19.10-desktop-amd64.iso of=/dev/sdb1 status=progress oflag=sync 
+  455  df
+  456  sudo mount /dev/sdb1
+  457  cls
+  458  clear
+  459  la
+  460  ls
+  461  cd Desktop/
+  462  la
+  463  cd edureka-repo/
+  464  ls
+  465  la
+  466  rm -r *
+  467  ls
+  468  pwd
+  469  git init
+  470  la
+  471  gedit edureka.py
+  472  git add edureka.py 
+  473  git add .
+  474  git add *
+  475  status
+  476  git status
+  477  git commit -m "first commit"
+  478  git status
+  479  cd Desktop/
+  480  rm -r edureka-repo/
+  481  rm -R edureka-repo/
+  482  sudo rm -r edureka-repo/
+  483  mkdir edureka-repo
+  484  cd edureka-repo/
+  485  git init
+  486  git status
+  487  touch edureka.py
+  488  gedit edureka.py 
+  489  ls
+  490  cat edureka.py 
+  491  cat *
+  492  clear
+  493  status
+  494  git status
+  495  git commit -m "first commit"
+  496  git add edureka.py 
+  497  git commit -m "first commit"
+  498  git status
+  499  gedit welcome.py
+  500  cat welcome.py 
+  501  git add 8
+  502  git add *
+  503  git status
+  504  git config --global user.name "Thotsana"
+  505  git config --global user.email "thotsana.mabotsa"
+  506  git config user.name "Thotsana"
+  507  git config user.email "thotsana.mabotsa"
+  508  clear
+  509  git branch
+  510  git branch feature
+  511  git branch
+  512  git checkout feature 
+  513  ls
+  514  gedit edureka.py 
+  515  cat edureka.py 
+  516  git add .
+  517  git commit -m "feature commit"
+  518  ls
+  519  clear
+  520  git checkout master 
+  521  git merge feature 
+  522  clear
+  523  git branch -d feature
+  524  git checkout -b new
+  525  gedit welcome.py 
+  526  git status
+  527  git add .
+  528  git commit -m "New"
+  529  git status 
+  530  git remote add origin
+  531  cd ../..
+  532  cd De
+  533  ls
+  534  cd Desktop/
+  535  ls
+  536  la
+  537  cd Desktop/
+  538  la
+  539  cd ..
+  540  cd Desktop/
+  541  cat > WifiPassword
+  542  cat WifiPassword 
+  543  df
+  544  sudo umount /dev/sdb1
+  545  shutdown now
+  546  cd Desktop/
+  547  ls
+  548  cd git-basic-exercises/
+  549  ls
+  550  ls -a
+  551  git remote origin https://github.com/Thotsana/Git-Commands.git
+  552  git clone https://github.com/Thotsana/Git-Commands.git
+  553  ls
+  554  cd Git-Commands/
+  555  ls
+  556  mv git1.py git2.py
+  557  git add .
+  558  git commit -m "mosa"
+  559  git push 
+  560  cd ../..
+  561  mkdir NewFolder
+  562  cd NewFolder/
+  563  ls
+  564  git init
+  565  ls -a
+  566  git push
+  567  git remote add New-repo https://github.com/Thotsana/Joshua.git
+  568  git push
+  569  git push New-repo
+  570  ls
+  571  ls -a
+  572  touch Writeme.py
+  573  git branch
+  574  git add ..
+  575  git add .
+  576  git status
+  577  git commit -m "trying"
+  578  git branch
+  579  git push New-repo
+  580  git push --set-upstream New-repo master
+  581  git push
+  582  git push https://github.com/Thotsana
+  583  git remote add New-repo https://github.com/Thotsana
+  584  git remote add New-repo2 https://github.com/Thotsana
+  585  cd Des
+  586  cd Desktop/
+  587  ls
+  588  rmdir git-basic-exercises/
+  589  rm -r git-basic-exercises/
+  590  ls
+  591  rm -R git-basic-exercises/
+  592  ls
+  593  sudo rm -r git-basic-exercises/
+  594  ls
+  595  clear
+  596  mkdir git-basic-exercises
+  597  ls
+  598  cd git-basic-exercises/
+  599  ls
+  600  ls -a
+  601  git status
+  602  clear
+  603  git init
+  604  ls -a
+  605  git status
+  606  touc README.md
+  607  touch README.md
+  608  clear
+  609  ls
+  610  ls -a
+  611  git add README.md 
+  612  git status
+  613  git commit -m "initial commit"
+  614  git log
+  615  nano README.md 
+  616  cat README.md 
+  617  git status 
+  618  git add .
+  619  git commit -m "second commit"
+  620  git status 
+  621  nano README.md 
+  622  git status 
+  623  git add .
+  624  git commit -m "third commit"
+  625  git status 
+  626  git log
+  627  git checkout 856685719b5d1f8336a1d4de69bb955287142c73
+  628  cat README.md 
+  629  clear
+  630  cat README.md 
+  631  git checkout master 
+  632  cat README.md 
+  633  git branch
+  634  git branch -b milkshake-flavours
+  635  git branch 
+  636  git -b milkshake-flavours
+  637  git branch milkshake-flavours
+  638  git branch 
+  639  clear
+  640  git checkout milkshake-flavours 
+  641  git branch 
+  642  nano milkshakes.md
+  643  git status
+  644  git add milkshakes.md 
+  645  git commit -m "added initial flavours."
+  646  git status
+  647  git log
+  648  ls
+  649  nano README.md 
+  650  git add README.md 
+  651  git commit -m "random readme changs"
+  652  cat README.md 
+  653  rm README.md echo "booya" > README.md 
+  654  ls
+  655  echo "booya" > README.md
+  656  cat README.md 
+  657  git add README.md 
+  658  git commit -m "rewrote readme"
+  659  git checkout master 
+  660  ls
+  661  git log
+  662  git checkout milkshake-flavours 
+  663  ls
+  664  git log
+  665  git checkout history
+  666  git checkout master 
+  667  git merge milkshake-flavours 
+  668  ls
+  669  git log
+  670  clear
+  671  ls
+  672  cat 
+  673  claer
+  674  cat README.md 
+  675  echo "# git-basic-exercises" >> README.md 
+  676  cat README.md 
+  677  clear
+  678  git init
+  679  git add README.md 
+  680  git commit -m "first commit"
+  681  git remote add origin https://github.com/Thotsana/git-basic-exercises.git
+  682  git push -u origin master 
+  683  git remote add origin https://github.com/Thotsana/git-basic-exercises.git
+  684  git push -u origin master 
+  685  cd
+  686  cd Des
+  687  cd Desktop/
+  688  mkdir Testing
+  689  cd Testing/
+  690  ls
+  691  rm *
+  692  ls
+  693  sudo su
+  694  clear
+  695  echo " New Git" > README.md
+  696  cat README.md 
+  697  git init
+  698  git add README.md 
+  699  git commit -m "first commit"
+  700  git remote add origin https://github.com/Thotsana/new-git.git
+  701  git push -u origin master 
+  702  cd ..
+  703  clear
+  704  cd git-basic-exercises/
+  705  cd ../
+  706  git clone https://github.com/Umuzi-org/tech-department.git
+  707  ls
+  708  cd tech-department/
+  709  ls
+  710  clear
+  711  ls
+  712  clear
+  713  ls
+  714  git branch
+  715  git log
+  716  clear
+  717  git branch -a
+  718  clear
+  719  git checkout project/git-basic-exercises
+  720  ls
+  721  git branch
+  722  git branch -a
+  723  clear
+  724  git remote -v
+  725  git branch project/git-basic-exercises
+  726  git branch
+  727  git checkout project/git-basic-exercises 
+  728  git remote -v
+  729  git log
+  730  clear
+  731  git branch 
+  732  cd ..
+  733  cd git-basic-exercises/
+  734  ls
+  735  git log
+  736  clear
+  737  cd
+  738  mkdir this-will-be-another-repo
+  739  cd this-will-be-another-repo/
+  740  git init
+  741  touch README.md
+  742  cd
+  743  cd Desktop/
+  744  cd git-basic-exercises/
+  745  git log
+  746  touch ignore-me.db
+  747  git status
+  748  nano .gitignore
+  749  git status 
+  750  mkdir large-directory-that-should-be-local-only
+  751  cd large-directory-that-should-be-local-only/
+  752  echo "This is a random text." > README.md
+  753  cd ..
+  754  git status 
+  755  ls
+  756  ls -a
+  757  nano .gitignore 
+  758  git status
+  759  ls
+  760  rm this-will-be-another-repo/ README.md 
+  761  sudo rm -r this-will-be-another-repo
+  762  ls
+  763  clear
+  764  mkdir git-basic-exercises
+  765  cd git-basic-exercises/
+  766  ls
+  767  ls -a
+  768  git init
+  769  ls -a
+  770  git status
+  771  touch README.md
+  772  ls -a
+  773  git status
+  774  clear
+  775  git log
+  776  git add README.md 
+  777  git log
+  778  git status
+  779  git commit -m "initial commit"
+  780  git log
+  781  nano README.md 
+  782  cat README.md 
+  783  git status
+  784  git add README.md 
+  785  git commit -m "second commit"
+  786  nano README.md 
+  787  git add README.md 
+  788  git commit -m "third commit"
+  789  clear
+  790  git log
+  791  git checkout 5d010f413d8931d78f3aad1878494ae68eb93015
+  792  cat README.md 
+  793  git checkout master 
+  794  cat README.md 
+  795  clear
+  796  git branch
+  797  git branch milkshake-flavours
+  798  git branch
+  799  git checkout milkshake-flavours 
+  800  git branch
+  801  nano milkshakes.md
+  802  git status
+  803  git add milkshakes.md 
+  804  git commit -m "added initial flavours"
+  805  clear
+  806  git log
+  807  git checkout master 
+  808  git log
+  809  clear
+  810  git log
+  811  git branch history
+  812  git checkout history 
+  813  git branch
+  814  clear
+  815  git log
+  816  git checkout milkshake-flavours 
+  817  clear
+  818  git log
+  819  nano README.md 
+  820  git add README.md 
+  821  git commit -m "random readme changes"
+  822  git checkout history 
+  823  cat README.md 
+  824  git branch 
+  825  echo "booya" > README.md
+  826  git add README.md 
+  827  git commit -m "rewrote readme"
+  828  git checkout master 
+  829  clear
+  830  ls
+  831  git log
+  832  git checkout milkshake-flavours 
+  833  clear
+  834  ls
+  835  git log
+  836  git checkout history 
+  837  clea
+  838  clear
+  839  git checkout history 
+  840  ls
+  841  history > history.txt
